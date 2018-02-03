@@ -12,16 +12,6 @@
 		E43115A51F71941A00768BCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E43115A41F71941A00768BCC /* Assets.xcassets */; };
 		E43115A81F71941A00768BCC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E43115A61F71941A00768BCC /* LaunchScreen.storyboard */; };
 		E43115B01F71945B00768BCC /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E43115AF1F71945B00768BCC /* ViewController.xib */; };
-		E43115B41F7195AE00768BCC /* AViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43115B21F7195AE00768BCC /* AViewController.swift */; };
-		E43115B51F7195AE00768BCC /* AViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E43115B31F7195AE00768BCC /* AViewController.xib */; };
-		E43115B81F7195B600768BCC /* BViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43115B61F7195B600768BCC /* BViewController.swift */; };
-		E43115B91F7195B600768BCC /* BViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E43115B71F7195B600768BCC /* BViewController.xib */; };
-		E43115BC1F7195BD00768BCC /* CViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43115BA1F7195BD00768BCC /* CViewController.swift */; };
-		E43115BD1F7195BD00768BCC /* CViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E43115BB1F7195BD00768BCC /* CViewController.xib */; };
-		E43115C01F7195C600768BCC /* DViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43115BE1F7195C600768BCC /* DViewController.swift */; };
-		E43115C11F7195C600768BCC /* DViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E43115BF1F7195C600768BCC /* DViewController.xib */; };
-		E43115C41F7195CD00768BCC /* EViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43115C21F7195CD00768BCC /* EViewController.swift */; };
-		E43115C51F7195CD00768BCC /* EViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E43115C31F7195CD00768BCC /* EViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,16 +22,6 @@
 		E43115A71F71941A00768BCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E43115A91F71941A00768BCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E43115AF1F71945B00768BCC /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
-		E43115B21F7195AE00768BCC /* AViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AViewController.swift; sourceTree = "<group>"; };
-		E43115B31F7195AE00768BCC /* AViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AViewController.xib; sourceTree = "<group>"; };
-		E43115B61F7195B600768BCC /* BViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BViewController.swift; sourceTree = "<group>"; };
-		E43115B71F7195B600768BCC /* BViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BViewController.xib; sourceTree = "<group>"; };
-		E43115BA1F7195BD00768BCC /* CViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CViewController.swift; sourceTree = "<group>"; };
-		E43115BB1F7195BD00768BCC /* CViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CViewController.xib; sourceTree = "<group>"; };
-		E43115BE1F7195C600768BCC /* DViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DViewController.swift; sourceTree = "<group>"; };
-		E43115BF1F7195C600768BCC /* DViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DViewController.xib; sourceTree = "<group>"; };
-		E43115C21F7195CD00768BCC /* EViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EViewController.swift; sourceTree = "<group>"; };
-		E43115C31F7195CD00768BCC /* EViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,16 +68,6 @@
 			children = (
 				E431159F1F71941A00768BCC /* ViewController.swift */,
 				E43115AF1F71945B00768BCC /* ViewController.xib */,
-				E43115B21F7195AE00768BCC /* AViewController.swift */,
-				E43115B31F7195AE00768BCC /* AViewController.xib */,
-				E43115B61F7195B600768BCC /* BViewController.swift */,
-				E43115B71F7195B600768BCC /* BViewController.xib */,
-				E43115BA1F7195BD00768BCC /* CViewController.swift */,
-				E43115BB1F7195BD00768BCC /* CViewController.xib */,
-				E43115BE1F7195C600768BCC /* DViewController.swift */,
-				E43115BF1F7195C600768BCC /* DViewController.xib */,
-				E43115C21F7195CD00768BCC /* EViewController.swift */,
-				E43115C31F7195CD00768BCC /* EViewController.xib */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -161,11 +131,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E43115C51F7195CD00768BCC /* EViewController.xib in Resources */,
-				E43115BD1F7195BD00768BCC /* CViewController.xib in Resources */,
-				E43115C11F7195C600768BCC /* DViewController.xib in Resources */,
-				E43115B91F7195B600768BCC /* BViewController.xib in Resources */,
-				E43115B51F7195AE00768BCC /* AViewController.xib in Resources */,
 				E43115A81F71941A00768BCC /* LaunchScreen.storyboard in Resources */,
 				E43115B01F71945B00768BCC /* ViewController.xib in Resources */,
 				E43115A51F71941A00768BCC /* Assets.xcassets in Resources */,
@@ -180,12 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E43115A01F71941A00768BCC /* ViewController.swift in Sources */,
-				E43115C01F7195C600768BCC /* DViewController.swift in Sources */,
-				E43115B81F7195B600768BCC /* BViewController.swift in Sources */,
-				E43115BC1F7195BD00768BCC /* CViewController.swift in Sources */,
-				E43115B41F7195AE00768BCC /* AViewController.swift in Sources */,
 				E431159E1F71941A00768BCC /* AppDelegate.swift in Sources */,
-				E43115C41F7195CD00768BCC /* EViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
